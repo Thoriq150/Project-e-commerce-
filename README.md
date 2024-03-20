@@ -1,7 +1,7 @@
 # Project-e-commerce
-# Penjelasan Singkat
+## Penjelasan Singkat
 Web untuk Toko Retail ini ada dua tampilan yangpertama untuk Admin yang Kedua untuk User, untuk admin kami menyediakan  fitur untuk login dan mengelola tampilan User.Lalu untuk User tidak ada tampilan login namun kita buat design yang lebih mudah untuk dinikmati
-## Untuk Tampilan Admin
+### Untuk Tampilan Admin
 ![Screenshot (327)](https://github.com/Thoriq150/UAS_RPL/assets/115950790/e7f30b7d-68ad-4291-acbe-e32da6314fa7)
 ![Screenshot (333)](https://github.com/Thoriq150/UAS_RPL/assets/115950790/83b70779-803f-41d9-aff0-4ad4750ee435)
 
